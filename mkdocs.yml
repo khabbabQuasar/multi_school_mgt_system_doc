@@ -1,0 +1,14 @@
+site_name: School Management System
+theme:
+  name: material
+nav:
+  - Introduction : index.md
+  - Old System disadvantages : about.md
+  - Key Features : key_features.md
+  - Authentication : authentication.md
+  - CSRF Token : csrf_token.md
+  - URL ID Encryption : encryption.md
+  - Super Admin Panel : super_admin_panel.md
+  - Header Footer For Email : header_footer_email.md
+  - Email &  Mobile Verification : email_mobile_verification.md
+  - Dynamic forms / Additional Fields : dynamic_forms.md
