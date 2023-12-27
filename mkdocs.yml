@@ -12,3 +12,7 @@ nav:
   - Header Footer For Email : header_footer_email.md
   - Email &  Mobile Verification : email_mobile_verification.md
   - Dynamic forms / Additional Fields : dynamic_forms.md
+
+markdown_extensions:
+  - attr_list
+  - md_in_html

@@ -5,7 +5,4 @@ Welcome to the documentation for the Multi-Tenant School Management System (MTSM
 
 ## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+![Image title](https://khabbabquasar.github.io/multi_school_mgt_system_doc/assets/images/one.svg){ align=left }
