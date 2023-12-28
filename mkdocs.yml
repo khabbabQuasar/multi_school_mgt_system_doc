@@ -1,8 +1,7 @@
 site_name: School Management System
 theme:
   name: material
-plugins:
-  - glightbox
+
 nav:
   - Introduction : index.md
   - Old System disadvantages : about.md
